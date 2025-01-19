@@ -1,5 +1,6 @@
 
-# Brainwave
+# Brainwave 
+
 
 Welcome to **Brainwave** – a visually stunning and interactive website built with **React**, **Vite**, and **TailwindCSS**. The site features a smooth and modern user interface with a focus on parallax effects and seamless scrolling. Ideal for anyone looking to experience a dynamic, stylish web experience!
 
